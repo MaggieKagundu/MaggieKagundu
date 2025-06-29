@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a UI/UX Designer with 3 yeras work experince in the Fintech and Insurance industries, currently on a journey to become a Frontend Developer with experience in. I love collaborating with diverse teams to create innovative solutions to give the user a seamless and pleasant experince.
+I'm a UI/UX Designer with 3 yeras work experince in the Fintech and Insurance industries, currently on a journey to become a Frontend Developer with ALX. I love collaborating with diverse teams to create innovative solutions to give the user a seamless and pleasant experince.
 
 - 🌱 Currently learning: Front End Development with ALX
 - 🔭 Working on: A digital banking and financial wellness mobile application
@@ -17,7 +17,7 @@ I'm a UI/UX Designer with 3 yeras work experince in the Fintech and Insurance in
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]** https://uxmargaretkagundu.framer.website/
-- **[LinkedIn]**https://www.linkedin.com/in/margaret-kagundu/
+- **[LinkedIn]** https://www.linkedin.com/in/margaret-kagundu/
 
 
 
