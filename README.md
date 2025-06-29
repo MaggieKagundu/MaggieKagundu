@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Margaret Kagundu! 👋
 
-<!--
-**MaggieKagundu/MaggieKagundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a UI/UX Designer with 3 yeras work experince in the Fintech and Insurance industries, currently on a journey to become a Frontend Developer with experience in. I love collaborating with diverse teams to create innovative solutions to give the user a seamless and pleasant experince.
+
+- 🌱 Currently learning: Front End Development with ALX
+- 🔭 Working on: A digital banking and financial wellness mobile application
+- 🌍 Languages: HTML, CSS, Javascript, React
+- 📫 How to reach me: maggiekagundu@gmail.com
+- ⚡ Fun fact: I am a musician as well.
+
+
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]** https://uxmargaretkagundu.framer.website/
+- **[LinkedIn]**https://www.linkedin.com/in/margaret-kagundu/
+
+
+
